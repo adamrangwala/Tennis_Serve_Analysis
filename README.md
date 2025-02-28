@@ -1,2 +1,2 @@
-# Tennis_Serve_Analysis
-Input a single serve for analysis of limb angles and compare to professionals
+# Tennis Serve Analysis
+Input a single tennis serve motion for posture analysis. Automatically visualize key body angles during different stages of the serve.
